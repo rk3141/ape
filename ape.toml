@@ -1,0 +1,7 @@
+[ape.ip]
+url = "https://httpbin.org/ip"
+method = "get"
+
+[ape.cat]
+url = "https://aws.random.cat/meow"
+method = "get"
